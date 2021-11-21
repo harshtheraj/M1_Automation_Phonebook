@@ -5,8 +5,8 @@ This mini project in C Phonebook allows you to perform simple Phonebook operatio
 ## RESEARCH
 
 ## Features
-- The Playfair cipher uses a 5×5 grid of letters, and encrypts a message by breaking the text into pairs of letters and swapping them according to their positions in a rectangle within that grid: 
-- In playfair cipher unlike traditional cipher we encrypt a pair of alphabets(digraphs) instead of a single alphabet.
+- This application is very useful nowadays to store full information under a single contact number. 
+- This application is also has options for removing and changing the contact number entered.
 ## State of Art
 yet not done
 
@@ -16,6 +16,7 @@ yet not done
 - It can store large numbers of contact list.
 - In what format do you want you can write to save thier name. 
 - The contact list will save forever in your device.  
+- You can edit your contact-list.
 - It can use special characters and numbers for saving a contact.
 
 ## Weaknesses
