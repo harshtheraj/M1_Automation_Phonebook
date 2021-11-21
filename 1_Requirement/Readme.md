@@ -24,24 +24,22 @@ yet not done
 - Anyone can save any conatct through your device.
 - It cannot use special characters and numbers.
 ## Opportunities
-- it will be able to encrypt plain text of any natural language.
+- it will be able to conatct any person after so many long time if you save their contact list before.
 # 4W and 1H
 ## What
-- The Playfair cipher was the first practical digraph substitution cipher.it will be able to encrypt plain text of any natural language.In playfair cipher unlike traditional       cipher we encrypt a pair of alphabets(digraphs) instead of a single alphabet.
+-Phonebook allows you to perform simple Phonebook operations like in your mobile in which you can add, list, modify, search and delete Phonebook-related records.
 ## Why
-- Playfair cipher is the first and best-known digraph substitution cipher, which uses the technique of symmetry encryption, and if anyone need secreat conversation on that time 
-  playfair can be use.
+- For saving multiple nunbers of records of multiple person in small device it will make it so easy and aslo can search any of one by just serching for the person.
 
 ## Where
-- When the two or more than two person aur want to talk privately on that time this technique is used. 
-- This technique is not used for business purpose because this technique is easily decrypted when anyone have idea about this Technique.  
+- We can it in our laptop , mobilephone, tablet.
+- This application is used for business purpose also because this application is easily accessable when anyone have idea about this application.  
 ## How
-- First of all identify the number of characters in the language.
-- Identify the  size  of  the  generalized  matrix. 
-- Create Diagraphs.
-- Build  mapping  of  the  characters  with  the Unicode.
-- Fill all the cells  of  the generalized matrix  with the characters.
-- Select a key and perform the encryption.
+- open the application and create a new contact.
+- Enter all required info which is essential. 
+- Save to contact list.
+- you can also search the conatct of the name which is save by you before.
+
 
 # High Level Requirements
 |HLR|      Description  |
