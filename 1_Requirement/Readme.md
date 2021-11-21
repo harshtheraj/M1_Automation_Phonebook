@@ -13,6 +13,8 @@ yet not done
 # SWOT ANALYSIS
 
 ## Strengths
+- Save time.
+- No complexicity.
 - It can store large numbers of contact list.
 - In what format do you want you can write to save thier name. 
 - The contact list will save forever in your device.  
@@ -45,11 +47,11 @@ yet not done
 # High Level Requirements
 |HLR|      Description  |
 |------|  --------------|
-|HLR_1|                 |
-|HLR_2|                 |
+|HLR_1|    Add Contact             |
+|HLR_2|    Large data can store             |
 
 # Low Level Requirements
 |LLR|      Description |
 |------|  --------------|
-|LLR_1|                 |
-|LLR_2|                 |
+|LLR_1|    Get data from standard input             |
+|LLR_2|    Save all the data             |
