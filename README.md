@@ -14,6 +14,12 @@
 # CODE QUALITY
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0ab03b7108d04707884529caea4fa12d)](https://www.codacy.com/gh/harshtheraj/m1_fun-automation_phonebook/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=harshtheraj/m1_fun-automation_phonebook&amp;utm_campaign=Badge_Grade)
 
+# CODE GRADE
+![code grade](https://api.codiga.io/project/29836/status/svg)
+
+# CODE QUALITY SCORE
+![Ccode quality score](https://api.codiga.io/project/29836/score/svg)
+
 ## Folder Structure 
 
 |Folder	 |Description
