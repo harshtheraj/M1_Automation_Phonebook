@@ -11,13 +11,12 @@ A phonebook manager is a software program that enables users to easily store and
 
 
 ## Strengths
-- Save time.
-- No complexicity.
-- It can store large numbers of contact list.
-- In what format do you want you can write to save thier name. 
-- The contact list will save forever in your device.  
-- You can edit your contact-list.
-- It can use special characters and numbers for saving a contact.
+- Improved data management
+- Easy and faster access
+- Better, longer-lasting customer relationships
+- Increased productivity
+- No hassle of physical maintenance of diaries
+- Backups available in case of unexpected activities
 
 ## Weaknesses
 - It considers only 15 letters for one person at a time. 
@@ -26,21 +25,30 @@ A phonebook manager is a software program that enables users to easily store and
 - It cannot use special characters and numbers.
 ## Opportunities
 - it will be able to conatct any person after so many long time if you save their contact list before.
+
+# Cost and Features
+- Complexity
+- Memory management
+- Storage
+
+
 # 4W and 1H
+
+## who
+Anyone with an electronic device with a display and has a requirement of a phonebook manager.
 ## What
--Phonebook allows you to perform simple Phonebook operations like in your mobile in which you can add, list, modify, search and delete Phonebook-related records.
-## Why
-- For saving multiple nunbers of records of multiple person in small device it will make it so easy and aslo can search any of one by just serching for the person.
+A phonebook manager with features like add, delete, search, display and store data to a file.
+## When
+A phonebook manager with features like add, delete, search, display and store data to a file.
 
 ## Where
-- We can it in our laptop , mobilephone, tablet.
-- This application is used for business purpose also because this application is easily accessable when anyone have idea about this application.  
-## How
-- open the application and create a new contact.
-- Enter all required info which is essential. 
-- Save to contact list.
-- you can also search the conatct of the name which is save by you before.
+It can be used in all sectors irrespective of their field of work.
 
+## How
+This application was developed in C language to avoid hassle of maintaining bulky diaries.
+
+ 
+# Detail Requirements
 
 # High Level Requirements
 |HLR|      Description  |
