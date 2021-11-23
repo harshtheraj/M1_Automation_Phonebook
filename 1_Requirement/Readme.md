@@ -1,16 +1,14 @@
 
 ## Introduction
 
-This mini project in C Phonebook allows you to perform simple Phonebook operations like in your mobile. You can add, list, modify, search and delete Phonebook-related records. File handling and data structure concepts has been extensively used for almost all functions in this mini project
+The project is titled as PhoneBook Manager and developed using C language. It is used to add, view, search, sort, delete and save contacts to file for future retrieval. This can be used to perform CRUD operations like store contacts with first name, last name, phone number & email and these details are entered by the user. The features of this phonebook manager include searching a contact by first name,last name, phone number and email id. User has an option to delete a contact by phone number.
 ## RESEARCH
+A phonebook manager is a software program that enables users to easily store and find contact information, such as names, addresses,emails and phone numbers. They are contact-centric databases that provide a fully integrated approach to tracking all information and communication activities linked to contacts. Simple ones for personal use are included in most smartphones.Contact lists have been available for a long time. The original contact management system (CMS) was Exsell for DOS by Excalibur Sources, released in 1984. This kind of application is used by almost everyone who has the access to an electronic device.
 
 ## Features
 - This application is very useful nowadays to store full information under a single contact number. 
 - This application is also has options for removing and changing the contact number entered.
-## State of Art
-yet not done
 
-# SWOT ANALYSIS
 
 ## Strengths
 - Save time.
