@@ -1,6 +1,20 @@
 # Phonebook
 
-## Folder Structure |
+# BADGES
+
+# CODE QUALITY
+[![Code Quality - Static Code - Cppcheck](https://github.com/harshtheraj/m1_fun-automation_phonebook/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/harshtheraj/m1_fun-automation_phonebook/actions/workflows/cppcheck.yml)
+
+# Contribution Check - Git Inspector
+[![Contribution Check - Git Inspector](https://github.com/harshtheraj/m1_fun-automation_phonebook/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/harshtheraj/m1_fun-automation_phonebook/actions/workflows/gitinspector.yml)
+
+# Unit Testing - Unity
+[![Unit Testing - Unity](https://github.com/harshtheraj/m1_fun-automation_phonebook/actions/workflows/unity.yml/badge.svg)](https://github.com/harshtheraj/m1_fun-automation_phonebook/actions/workflows/unity.yml)
+
+# CODE QUALITY
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0ab03b7108d04707884529caea4fa12d)](https://www.codacy.com/gh/harshtheraj/m1_fun-automation_phonebook/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=harshtheraj/m1_fun-automation_phonebook&amp;utm_campaign=Badge_Grade)
+
+## Folder Structure 
 
 |Folder	 |Description
 |---------| ----------|
