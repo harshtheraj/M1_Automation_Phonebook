@@ -31,6 +31,23 @@ A phonebook manager is a software program that enables users to easily store and
 - Memory management
 - Storage
 
+# Defining our System
+![Defining_the_system](https://user-images.githubusercontent.com/81011974/143188404-7643ee26-7b77-4996-99bc-a63b61958177.png)
+
+Phonebook Manager have features like:
+
+- Add a new contact.
+- Delete an existing contact.
+- Search for existing contact.
+- Save contact to file.
+- Read record from file.
+- Display contacts.
+
+# SWOT Analysis
+
+![SWOT](https://user-images.githubusercontent.com/81011974/143188819-68597f4b-8a55-40a2-b31c-8cc20315711f.png)
+
+
 
 # 4W and 1H
 
