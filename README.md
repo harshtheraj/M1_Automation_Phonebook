@@ -21,6 +21,10 @@
 # CODE QUALITY SCORE
 ![Ccode quality score](https://api.codiga.io/project/29836/score/svg)
 
+# LINUX TESTING
+[![Linux C/C++ CI](https://github.com/harshtheraj/M1_Automation_Phonebook/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/harshtheraj/M1_Automation_Phonebook/actions/workflows/Linux_c-cpp.yml)
+#WINDOWS TESTING
+
 ## Folder Structure 
 
 |Folder	 |Description
