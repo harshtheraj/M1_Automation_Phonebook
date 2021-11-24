@@ -15,6 +15,9 @@
 # CODE GRADE
 ![code grade](https://api.codiga.io/project/29836/status/svg)
 
+# UNIT TESTING
+[![Unit Testing - Unity](https://github.com/harshtheraj/m1_fun-automation_phonebook/actions/workflows/unity.yml/badge.svg)](https://github.com/harshtheraj/m1_fun-automation_phonebook/actions/workflows/unity.yml)
+
 # CODE QUALITY SCORE
 ![Ccode quality score](https://api.codiga.io/project/29836/score/svg)
 
